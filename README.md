@@ -30,5 +30,4 @@ The **KBH Management System** is a role-based hostel management desktop applicat
 
 ---
 
-## 📁 Project Structure
 
